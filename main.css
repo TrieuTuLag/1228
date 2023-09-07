@@ -1,0 +1,76 @@
+body {
+    background-color : rgb(98, 98, 105) ; 
+}
+h1 {
+    font-size: 50px ;
+    margin: 0px;
+    color: #fff;
+    text-align: center ; 
+    font-family :'forte' ; 
+}
+h3 {
+    font-size: 30px;
+    margin: 0px;
+    margin-right: 13%;
+    color: #fff;
+    text-align: right;
+    font-family :'forte'
+
+}
+#first {
+    margin-right: 20%;
+    text-align: center;
+}
+#first ul li {
+    display: inline;
+    list-style-type: none;
+}
+#first ul li a {
+    text-align: center;
+    color: #FFF;
+    text-decoration: none ; 
+    font-size: 30px;
+}
+
+#second {
+    background-color: rgb(115, 128, 123);
+    text-align: center;
+    height: 400px ; 
+    width: 60% ;
+    margin-left: 308px;
+    border-radius : 20px ; 
+}
+#second hr {
+    border: 2px solid rgb(98, 98, 105) ;
+    margin-right: 15px;
+    margin-left: 15px; 
+}
+#three {
+    float: left;
+    margin : 0px 15px 0px 15px ; 
+    text-align: left;
+    font-size :medium;
+    width:400px ;
+    height: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.img {
+    width:400px ;
+    height: 250px;
+    border-radius : 20px
+}
+#four {
+    margin : 0px 15px 0px 0px ;
+    width:400px ;
+    height: 250px;
+    float: right;
+}
+#five {
+    width: 58%;
+    text-align: center;
+}
+#six h3{
+    margin-left: 170px;
+    text-align: center;
+}
+
